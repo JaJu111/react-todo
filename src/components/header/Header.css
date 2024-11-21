@@ -1,0 +1,14 @@
+header {
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.08), 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.header-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-box span {
+    font-size: 20px;
+    font-weight: 500;
+}

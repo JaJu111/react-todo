@@ -1,0 +1,17 @@
+.way-to-teach {
+	display: flex;
+	flex-direction: column;
+}
+
+.section_button-box {
+	display: flex;
+	gap: 20px;
+}
+
+section {
+	padding: 0 60px;
+}
+
+ul {
+    padding: 0;
+}
